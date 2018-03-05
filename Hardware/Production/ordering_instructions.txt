@@ -1,0 +1,7 @@
+board size, 105x91mm
+board thickness, 0.8mm
+number of layers, 2
+soldermask color, Black
+silkscreen color, white
+oz copper, 1oz
+finish, HASL lead free
